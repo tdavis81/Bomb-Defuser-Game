@@ -1,0 +1,20 @@
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\bin\Debug\WindowsApplication20.exe
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\bin\Debug\WindowsApplication20.pdb
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\bin\Debug\WindowsApplication20.xml
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\obj\Debug\WindowsApplication20.Form1.resources
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\obj\Debug\WindowsApplication20.Resources.resources
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\obj\Debug\WindowsApplication20.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\obj\Debug\WindowsApplication20.exe
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\obj\Debug\WindowsApplication20.xml
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication20\WindowsApplication20\obj\Debug\WindowsApplication20.pdb
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\obj\Debug\WindowsApplication20.exe
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\obj\Debug\WindowsApplication20.xml
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\obj\Debug\WindowsApplication20.pdb
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\bin\Debug\WindowsApplication20.exe
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\bin\Debug\WindowsApplication20.pdb
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\bin\Debug\WindowsApplication20.xml
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\obj\Debug\WindowsApplication20.Form1.resources
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\obj\Debug\WindowsApplication20.Resources.resources
+C:\Documents and Settings\cp749\Desktop\Tyler Stuff\Tyler Stuff\Tylers VB Stuff\BOMB Defuser Game\WindowsApplication20\obj\Debug\WindowsApplication20.vbproj.GenerateResource.Cache
